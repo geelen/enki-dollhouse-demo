@@ -1,0 +1,4 @@
+prod:
+  server_name: enki_box
+  ip: 184.106.248.41
+  deployment_name: production
